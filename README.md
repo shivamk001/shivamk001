@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Kesarwani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [Codial Social Media App](https://github.com/shivamk001/Codeial_Nodejs).
+- 🔭 I’m currently working on [Portfolio](https://github.com/shivamk001/portfolio).
 
-- 🌱 I’m currently learning **Microservices, Docker**
+- 🌱 I’m currently learning **Microservices, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamk001](https://github.com/shivamk001)
 
